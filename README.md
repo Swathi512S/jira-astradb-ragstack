@@ -49,7 +49,7 @@ And you need to gain access to the following by signing up for free:
 2. [OpenAI account](https://platform.openai.com/signup) (you can sign up through your Github account)
 3. [Streamlit](https://streamlit.io) to deploy your amazing app (you can sign up through your Github account)
 
-Follow the below steps and provide the **Astra DB API Endpoint**, **Astra DB ApplicationToken** and **OpenAI API Key** when required.
+Follow the below steps and provide the **Astra DB API Endpoint**, **Astra DB ApplicationToken**, **OpenAI API Key**,**JIRA Email** and **JIRA API Token** when required.
 
 ### Sign up for Astra DB
 Make sure you have a **vector-enabled** Astra database (get one for free at [astra.datastax.com](https://astra.datastax.com))
